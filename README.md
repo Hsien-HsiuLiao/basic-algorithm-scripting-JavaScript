@@ -1,1 +1,1 @@
-# basic-algorithm-scripting
+# JavaScript algorithms
